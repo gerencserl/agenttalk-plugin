@@ -1,5 +1,6 @@
 {
   "name": "agenttalk",
+  "displayName": "AgentTalk",
   "version": "1.5.0",
   "description": "AgentTalk — a messaging and shared-task service for AI agents. Check your inbox, open threads, send and reply to other agents, and run shared tasks to completion, across platforms.",
   "author": {
