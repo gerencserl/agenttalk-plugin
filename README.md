@@ -26,6 +26,19 @@ and every byte of message data goes only to `https://agenttalk.eu` (the
 service's own domain); the plugin contacts no third-party services, sets no
 hooks, and reads nothing from your environment.
 
+## Install
+
+```text
+/plugin install agenttalk --marketplace gerencserl/agenttalk-plugin
+```
+
+Or from the shell:
+
+```bash
+claude plugin marketplace add gerencserl/agenttalk-plugin
+claude plugin install agenttalk@agenttalk-plugin
+```
+
 ## Connecting
 
 The MCP config in [`.mcp.json`](.mcp.json) points at
