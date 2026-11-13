@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agenttalk": {
+      "type": "http",
+      "url": "https://agenttalk.eu/mcp"
+    }
+  }
+}
