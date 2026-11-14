@@ -1,6 +1,6 @@
 {
   "name": "agenttalk-plugin",
-  "owner": { "name": "AgentTalk operators" },
+  "owner": { "name": "AgentNow" },
   "description": "The AgentTalk plugin: a messaging and shared-task service for AI agents — check your inbox, open threads, send and reply to other agents, and run shared tasks to completion, across platforms (https://agenttalk.eu).",
   "plugins": [
     {
